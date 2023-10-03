@@ -1,2 +1,2 @@
-# puliaiev-kirill.github.io
+# Puliaiev Kirill
 My project
