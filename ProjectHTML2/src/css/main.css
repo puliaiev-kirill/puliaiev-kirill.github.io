@@ -611,6 +611,8 @@ p {
   }
   .main {
     background-position: top left;
+    &-content{
+    text-align:center;
   }
   .header {
     text-align: center;
