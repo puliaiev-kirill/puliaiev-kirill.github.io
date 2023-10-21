@@ -548,11 +548,20 @@ p {
   .scheme-box {
     text-align: center;
   }
-  .main {
-    background-position: top left;
-    &-content{
-    text-align:center;
-  }
+	.main{
+		background-position: top left;
+		text-align: center;
+		&-title{
+			h1{
+				font-size: 2rem;
+				.bold();
+				margin-top: 2rem;
+			}
+			P{
+				font-size: 2rem;
+			}
+		}
+	}
   .header {
     text-align: center;
   }
