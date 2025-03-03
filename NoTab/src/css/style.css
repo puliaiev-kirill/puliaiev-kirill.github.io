@@ -691,7 +691,7 @@ p{
 
 
 }
-@media (max-width:420px){
+@media (max-width:450px){
     .welcome__title{
         max-width: 70%;
     }
