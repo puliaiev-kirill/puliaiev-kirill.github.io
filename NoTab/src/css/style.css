@@ -691,3 +691,8 @@ p{
 
 
 }
+@media (max-width:420px){
+    .welcome__title{
+        max-width: 70%;
+    }
+}
